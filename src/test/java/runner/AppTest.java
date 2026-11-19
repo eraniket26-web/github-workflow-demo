@@ -9,6 +9,6 @@ class AppTest {
     @Test
     void testAddition() {
         App calculator = new App();
-        assertEquals(11, calculator.add(5, 5));
+        assertEquals(10, calculator.add(5, 5));
     }
 }
